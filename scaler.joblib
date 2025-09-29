@@ -1,42 +1,0 @@
-€•      }”(ŒSex”Œsklearn.preprocessing._label”ŒLabelEncoder”“”)”}”(Œclasses_”Œjoblib.numpy_pickle”ŒNumpyArrayWrapper”“”)”}”(Œsubclass”Œnumpy”Œ ndarray”“”Œshape”K…”Œorder”ŒC”Œdtype”hŒdtype”“”ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”bŒ
-allow_mmap”‰Œnumpy_array_alignment_bytes”Kub€cnumpy._core.multiarray
-_reconstruct
-q cnumpy
-ndarray
-qK …qc_codecs
-encode
-qX   bqX   latin1q†qRq ‡qRq	(KK…q
-cnumpy
-dtype
-q
-X   O8q‰ˆ‡q
-Rq(KX   |qNNNJÿÿÿÿJÿÿÿÿK?tqb‰]q(X   FemaleqX   Maleqetqb.•V       Œ_sklearn_version”Œ1.6.1”ubŒ	Ethnicity”h)”}”(h h
-)”}”(h
-hhK…”hhhhh‰hKub€cnumpy._core.multiarray
-_reconstruct
-q cnumpy
-ndarray
-qK …qc_codecs
-encode
-qX   bqX   latin1q†qRq ‡qRq	(KK…q
-cnumpy
-dtype
-q
-X   O8q‰ˆ‡q
-Rq(KX   |qNNNJÿÿÿÿJÿÿÿÿK?tqb‰]q(X   AsianqX   BlackqX   OtherqX   Whiteqetqb.•C       hh ubŒ
-Test_Taken_By”h)”}”(h h
-)”}”(h
-hhK…”hhhhh‰hKub€cnumpy._core.multiarray
-_reconstruct
-q cnumpy
-ndarray
-qK …qc_codecs
-encode
-qX   bqX   latin1q†qRq ‡qRq	(KK…q
-cnumpy
-dtype
-q
-X   O8q‰ˆ‡q
-Rq(KX   |qNNNJÿÿÿÿJÿÿÿÿK?tqb‰]q(X   DoctorqX   OtherqX    PartnerqX   Selfqetqb.•±       hh ubŒfeature_cols”]”(ŒA1”ŒA2”ŒA3”ŒA4”ŒA5”ŒA6”ŒA7”ŒA8”ŒA9”ŒA10”Œage”ŒAQ_Score”ŒJaundice”Œ
-Family_ASD”Œ
-Sex_Encoded”ŒEthnicity_Encoded”ŒTest_Taken_By_Encoded”eu.
